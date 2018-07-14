@@ -1,0 +1,16 @@
+[
+  {
+    "description":"这是一个post方法",
+    "request":{
+      "uri":"/postdemo",
+      "method":"post",
+      "forms":{
+        "name":"zhangsan1",
+        "sex":"man"
+      }
+    },
+    "response":{
+      "text":"这是第一个mocopost请求"
+    }
+  }
+]
